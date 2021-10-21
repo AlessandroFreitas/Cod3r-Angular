@@ -19,6 +19,11 @@
       "name": "Geladeira Consul Bivolt",
       "price": 1913.19,
       "id": 4
+    },
+    {
+      "name": "Headphone HyperX Cloud Stinger",
+      "price": "269,90",
+      "id": 5
     }
   ]
 }
