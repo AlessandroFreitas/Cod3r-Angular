@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Samsung S20",
-      "price": 5000.89
+      "name": "Samsung S20+ Ultra",
+      "price": "7520.89"
     },
     {
       "name": "Geladeira Consul Bivolt",
@@ -22,8 +22,13 @@
     },
     {
       "name": "Headphone HyperX Cloud Stinger",
-      "price": "269,90",
+      "price": 269.9,
       "id": 5
+    },
+    {
+      "name": "Bala Fini Melancia 100g",
+      "price": 2.99,
+      "id": 6
     }
   ]
 }
