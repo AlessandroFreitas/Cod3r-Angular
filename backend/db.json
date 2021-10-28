@@ -19,6 +19,16 @@
       "name": "Geladeira Consul Bivolt",
       "price": 1913.19,
       "id": 4
+    },
+    {
+      "name": "DualShock 4 Camo",
+      "price": "259",
+      "id": 5
+    },
+    {
+      "name": "Monitor LG Ultra Vega 24'",
+      "price": "1499.00",
+      "id": 6
     }
   ]
 }

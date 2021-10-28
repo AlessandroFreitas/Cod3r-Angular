@@ -7,3 +7,12 @@ form {
 button {
     margin: 20px 15px 0px 0px;
 }
+
+.msg-success {
+    background-color: #28a745;
+    color: #ffffff
+}
+
+.msg-error {
+    background-color: #28a745;
+}
